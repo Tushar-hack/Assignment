@@ -13,8 +13,8 @@ class BookRepository{
             }
             throw new AppError(
                 'RepositoryError',
-                'Cannot create User',
-                'There was some issue creating a User, Please Try Again Later',
+                'Cannot create a book',
+                'There was some issue creating a book, Please Try Again Later',
                 StatusCodes.INTERNAL_SERVER_ERROR
             );
         }
