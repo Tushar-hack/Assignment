@@ -6,35 +6,6 @@
         ```npm install```
          ```npm start```
 
-# Deployment Process
-    - Prerequisites
-        - A Render.com account. Sign up at https://render.com if you don't have one.
-
-    - Log in to your Render.com account.
-
-
-    - In the Render dashboard,locate the "Web Services" section.
-    - Click the "New Web Service" button.
-    ![Dashboard Image]('./public/image.png')
-
-    - In the next stage, you will have two options to deploy your application: using a Git repository or an existing public image. Choose "Deploy an existing image from a registry" and click "Next."
-    ![](image-1.png)
-
-    - In the next step, you need to specify the URL for the external image. If the image is private, also provide the credentials to access the image. Then, click "Next."
-    ![](./public/image-3.png)
-
-    - On the following page, provide a name for your Web Service and select the region where you want to deploy it.
-    ![](./public/image-4.png)
-
-    - Scroll down, and click on "Create Web Service."
-    ![](./public/image-5.png)
-
-    - It may take around 15-20 seconds for your server to start.
-    - After a successful deployment, your dashboard will resemble the following:
-    ![](./public/image-6.png)
-
-    -Congratulations! You have successfully deployed a Node.js application as a Docker container on Render.com.
-
 # Books Endpoints
 
     Note: All data should be sent in JSON.
