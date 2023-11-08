@@ -18,7 +18,7 @@
     ![Dashboard Image]('./public/image.png')
 
     - In the next stage, you will have two options to deploy your application: using a Git repository or an existing public image. Choose "Deploy an existing image from a registry" and click "Next."
-    ![](./public/image-1.png)
+    ![](image-1.png)
 
     - In the next step, you need to specify the URL for the external image. If the image is private, also provide the credentials to access the image. Then, click "Next."
     ![](./public/image-3.png)
