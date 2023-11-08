@@ -15,7 +15,7 @@
 
     - In the Render dashboard,locate the "Web Services" section.
     - Click the "New Web Service" button.
-    ![Dashboard Image](./public/image.png)
+    ![Dashboard Image]('./public/image.png')
 
     - In the next stage, you will have two options to deploy your application: using a Git repository or an existing public image. Choose "Deploy an existing image from a registry" and click "Next."
     ![](./public/image-1.png)
